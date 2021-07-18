@@ -3,9 +3,9 @@
         <div class="mt-6 bg-white w-full border-t border-b border-green-400 px-6 md:px-0">
             <div class="container w-full md:w-3/4 lg:w-3/5 xl:w-1/2 mx-auto">
                 <div class="py-8 text-2xl text-green-800 leading-8">
-                    <div class="flex space-x-2 items-center">
+                    <div class="flex flex-col md:flex-row md:space-x-2 items-center">
                         <span class="text-6xl">💐</span>
-                        <p> Hello, my name is <span class="font-semibold">Lauren</span> and I'm an aspiring <span class="font-semibold">floral designer</span> based in <span class="font-semibold">Austin, Texas</span>. Welcome to my portfolio!</p>
+                        <p class="mt-4 md:mt-0"> Hello, my name is <span class="font-semibold">Lauren</span> and I'm an aspiring <span class="font-semibold">floral designer</span> based in <span class="font-semibold">Austin, Texas</span>. Welcome to my portfolio!</p>
                     </div>
 
                     <p class="mt-6 text-lg text-green-600">I hold Level 1 knowledge and skill-based certificates from the Texas State Florist Association.</p>
@@ -178,7 +178,10 @@
 
         <div class="py-6 bg-white w-full px-6 md:px-0 text-gray-400 text-sm text-right">
             <div class="container w-full md:w-3/4 lg:w-3/5 xl:w-1/2 mx-auto">
-                <p>&copy; 2021 by Lauren Hooker. With with <span class="text-lg">❤️</span> in Austin, TX.</p>
+                <div class="flex flex-col md:flex-row-reverse items-center justify-between">
+                    <p>&copy; 2021 by Lauren Hooker.</p>
+                    <p class="mt-1">Made with <span class="text-lg">❤️</span> in Austin, TX.</p>
+                </div>
             </div>
         </div>
     </div>
