@@ -179,8 +179,8 @@
         <div class="py-6 bg-white w-full px-6 md:px-0 text-gray-400 text-sm text-right">
             <div class="container w-full md:w-3/4 lg:w-3/5 xl:w-1/2 mx-auto">
                 <div class="flex flex-col md:flex-row-reverse items-center justify-between">
-                    <p>&copy; 2021 by Lauren Hooker.</p>
-                    <p class="mt-1">Made with <span class="text-lg">❤️</span> in Austin, TX.</p>
+                    <p>&copy; 2021 by Lauren Hooker</p>
+                    <p class="mt-1">Made with <span class="text-lg">❤️</span> in Austin, TX</p>
                 </div>
             </div>
         </div>
