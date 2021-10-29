@@ -172,6 +172,15 @@
                     >
                         <img src="/sm/17-my-first-ladies.jpg" class="rounded-xl">
                     </a>
+
+                    <a
+                        href="/lg/18-corsage.jpg"
+                        class="glightbox rounded-xl"
+                        data-title="Homecoming Corsage"
+                        data-description="Sweetheart roses, ranunculus, wax flower, silver queen, and limonium."
+                    >
+                      <img src="/sm/18-corsage.jpg" class="rounded-xl">
+                    </a>
                 </div>
             </div>
         </div>
