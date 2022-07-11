@@ -8,7 +8,7 @@
                         <p class="mt-4 md:mt-0"> Hello, my name is <span class="font-semibold">Lauren</span> and I'm an aspiring <span class="font-semibold">floral designer</span> based in <span class="font-semibold">Austin, Texas</span>. Welcome to my portfolio!</p>
                     </div>
 
-                    <p class="mt-6 text-lg text-green-600">I hold Level 1 knowledge and skill-based certificates from the Texas State Florist Association.</p>
+                    <p class="mt-6 text-lg text-green-600">I hold Level 1 knowledge and skill-based certificates from the Texas State Florist Association and have attended the Benz School of Floral Design.</p>
 
                     <p class="mt-6 text-lg text-green-700"><span class="text-xl">📫</span> Send an email to <a class="underline font-semibold hover:text-green-900" href="mailto:laurenluvsflowers@gmail.com">laurenluvsflowers@gmail.com</a> to get in touch!</p>
 
@@ -120,21 +120,21 @@
                     </a>
 
                     <a
-                        href="/lg/12-assorted-flow-bouquet.jpg"
+                        href="/lg/12-funeral-flow.jpg"
                         class="glightbox rounded-xl"
                         data-title="Funeral Spray"
-                        data-description="White daisy palms, peach and pink roses, gerber daisies, baby's breath, and leather leaf."
+                        data-description="Pink carnations, while daisy palms, and aspidistra leaves."
                     >
-                        <img src="/sm/12-assorted-flow-bouquet.jpg" class="rounded-xl">
+                        <img src="/sm/12-funeral-flow.jpg" class="rounded-xl">
                     </a>
 
                     <a
-                        href="/lg/13-carnation-centerpiece-01.jpg"
+                        href="/lg/13-staghorn-fern.jpg"
                         class="glightbox rounded-xl"
-                        data-title="Carnation Centerpiece"
-                        data-description="Pink carnations, purple statice, and leather leaf."
+                        data-title="Tropical Greens Basket"
+                        data-description="Staghorn fern, cast-iron plant leaves, begonia leaves, and leather leaves."
                     >
-                        <img src="/sm/13-carnation-centerpiece-01.jpg" class="rounded-xl">
+                        <img src="/sm/13-staghorn-fern.jpg" class="rounded-xl">
                     </a>
 
                     <a
@@ -147,12 +147,12 @@
                     </a>
 
                     <a
-                        href="/lg/15-spring-flower-vase-01.jpg"
+                        href="/lg/15-unity-candle.jpg"
                         class="glightbox rounded-xl"
-                        data-title="Spring Flower Vase (front view)"
-                        data-description="Spider chrysanthemums, mini sunflowers, daisy palms, and Peruvian lily."
+                        data-title="Unity Candle"
+                        data-description="Calla lilies, galax rosette, and tropical foliage."
                     >
-                        <img src="/sm/15-spring-flower-vase-01.jpg" class="rounded-xl">
+                        <img src="/sm/15-unity-candle.jpg" class="rounded-xl">
                     </a>
 
                     <a
@@ -165,12 +165,12 @@
                     </a>
 
                     <a
-                        href="/lg/17-my-first-ladies.jpg"
+                        href="/lg/17-white-elegance-casket-spray.jpg"
                         class="glightbox rounded-xl"
-                        data-title="Inspired by the book 'My First Ladies'"
-                        data-description="Peach and yellow roses, carnations, lilies, and delphinium."
+                        data-title="White Elegance Casket Spray"
+                        data-description="White carnations and plumosa fern."
                     >
-                        <img src="/sm/17-my-first-ladies.jpg" class="rounded-xl">
+                        <img src="/sm/17-white-elegance-casket-spray.jpg" class="rounded-xl">
                     </a>
 
                     <a
